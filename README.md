@@ -1,4 +1,4 @@
-## Hi, I'm chanbii 👋
+## Hi, I'm C. Kim 👋
 
 <!--
 **chanbii/chanbii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
