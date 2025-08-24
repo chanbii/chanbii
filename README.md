@@ -33,5 +33,4 @@ I'm a student developer passionate about learning deeply and building consistent
 
 ### 🌱 Motto
 너는 무서워하면서도 끝까지 걸어가는 사람
-I don’t wait to be ready. I walk anyway
 
