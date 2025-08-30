@@ -1,4 +1,4 @@
-## Hi, I'm chanbii 👋
+## 안녕하세요, chanbii 입니다 👋
 
 <!--
 **chanbii/chanbii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,16 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a student developer passionate about learning deeply and building consistently.  
+저는 깊이 있게 학습하고 지속적으로 발전시키는 데 열정을 가진 개발자입니다.
 
 ### 🧠 Interests
-- Backend Development
+- Android | Backend
 - Data Structuring & Privacy Tech
 - AI-based Services & APIs
 - Thoughtful Writing & Documentation
 
 ### 🛠️ Currently Working On
 - Algorithm Practice – Baekjoon Study
+- Game Development Project
 
 ### 📈 GitHub Stats
 
