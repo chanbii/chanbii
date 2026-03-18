@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 저는 깊이 있게 학습하고 지속적으로 발전시키고자 하는 열정을 가진 개발자입니다.
 
 ### 🧠 Interests
-- Android | Backend
+- Frontend | Backend
 - Data Structuring & Privacy Tech
 - AI-based Services & APIs
 - Thoughtful Writing & Documentation
